@@ -38,3 +38,10 @@ echo "Done..!!"
 ![Getting Started](./6-console-output.png)
 
 
+
+### Jenkins Home Directory in EC2 : /var/lib/jenkins/workspace/
+
+```bash
+cd /var/lib/jenkins/workspace/
+```
+### Go to Jenkins home directory and check for the job name --> check the file created inside the job
